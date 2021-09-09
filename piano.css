@@ -1,0 +1,65 @@
+body {
+    align-content: center;
+    background-color: lightgray;
+}
+
+section {
+    background-color: white;
+    margin: 200px auto;
+    padding: 15px 100px;
+    border: 5px double black;
+    width: 700px;
+    font-family: 'Lucida Console', sans-serif;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    margin: 2px 35px;
+}
+ul {
+    justify-content: center;
+    border-top: 2px double black;
+    border-bottom: 1px solid black;
+    padding: 15px;
+    width: 650px;
+    text-align: center;
+    margin: 2px auto;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.analog {
+    font-size: 40px;
+    letter-spacing: 7px;
+    font-weight: bold;
+
+}
+
+.specialists {
+    letter-spacing: 2px;
+    margin-left: -8px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: brown;
+}
+
